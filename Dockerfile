@@ -4,10 +4,10 @@
 
 #
 # Building
-#   docker build -t matsumotory:mod_mruby .
+#   docker build -t doragon:mod_mruby .
 #
 # Runing
-#   docker run -d -p 10080:80 matsumotory:mod_mruby
+#   docker run -d -p 10080:80 doragon:mod_mruby
 #
 # Access
 #   curl http://127.0.0.1:10080/mruby
